@@ -1,3 +1,3 @@
-# MSAccess for source control
+# Microsoft Access for source control
 
 CScript to convert all MS Access database objects in text files for source control.
